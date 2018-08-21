@@ -1,0 +1,15 @@
+[0808/104500.064:ERROR:process_info.cc(359)] UncheckedAllocate
+[0810/041606.854:ERROR:process_info.cc(359)] UncheckedAllocate
+[0810/041614.654:ERROR:process_info.cc(359)] UncheckedAllocate
+[0810/042501.740:ERROR:process_info.cc(359)] UncheckedAllocate
+[0810/042512.294:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/132638.950:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/132859.346:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/132859.442:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/133212.799:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/140119.753:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0811/140157.478:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/140405.347:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/140715.757:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/141455.199:ERROR:process_info.cc(359)] UncheckedAllocate
+[0811/141507.896:ERROR:process_info.cc(359)] UncheckedAllocate
